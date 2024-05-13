@@ -13,12 +13,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 1</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -28,12 +23,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 2</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -43,12 +33,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 3</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -58,12 +43,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 4</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -75,12 +55,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 5</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -90,12 +65,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 6</h1> 
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -105,12 +75,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 7</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
@@ -120,12 +85,7 @@ const Homepage = () => {
             <div class="product">
               <div class="wrapper">
                 <div class="banner-image"></div>
-                <h1>Toyota Supra</h1>
-                <p>
-                  Lorem ipsum dolor sit amet,
-                  <br />
-                  consectetur adipiscing elit.
-                </p>
+                <h1>Product 8</h1>
               </div>
               <div class="button-wrapper">
                 <button class="btn outline">DETAILS</button>
